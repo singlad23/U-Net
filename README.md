@@ -1,2 +1,2 @@
-# Assignment-1.1
+# AssignmentOne-PyTorch
 CIFAR10 Image Classification with Keras
